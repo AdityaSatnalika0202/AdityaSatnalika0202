@@ -41,24 +41,35 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages 
+<span><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="c++"/></span>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" title="javascript"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" title="python"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="java"/>
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="50" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="50" height="40" style="max-width: 100%;position: relative;top: 20px;">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-</div>
+## :hammer_and_wrench: Development tools and frameworks
+<span><img src="https://img.icons8.com/color/48/000000/html-5.png" title="html"/></span>
+<img src="https://img.icons8.com/color/48/000000/css3.png" title="v"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="bootstrap"/>
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" title="react"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="nodejs"/>
+<img src="https://img.icons8.com/color/48/000000/redux.png" title="redux"/>
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"  title="django"/>
+
+## :hammer_and_wrench: Databases
+<span><img src="https://img.icons8.com/ios/50/ffffff/mysql-logo.png" title="mysql"/></span>
+<img src="https://img.icons8.com/color/50/000000/postgreesql.png" title="postgreesql"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="mongodb"/>
+
+
+## :hammer_and_wrench: Others
+
+<span><img src="https://img.icons8.com/color/48/000000/firebase.png" title="firebase"/></span>
+<img src="https://img.icons8.com/color/48/000000/git.png" title="git"/>
+<img src="https://img.icons8.com/dusk/64/000000/docker.png" title="docker"/>
+<img src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"/>
+<img src="https://img.icons8.com/color/48/000000/graphql.png" title="graphql"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
 
 ---
 
